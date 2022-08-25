@@ -1,0 +1,11 @@
+<svg width="1000" height="1000" xmlns="http://www.w3.org/2000/svg">
+
+ <g>
+  <title>Layer 1</title>
+  <rect stroke="#000" rx="25" id="svg_1" height="800" width="600" y="89" x="162.60869" fill="#fff"/>
+  <rect rx="25" id="svg_5" height="140" width="540" y="119.13017" x="192.17362" stroke="#000" fill="#157f07"/>
+  <rect rx="25" id="svg_7" height="140" width="540" y="320.86921" x="192.17362" stroke="#000" fill="#0000e8"/>
+  <rect rx="25" id="svg_8" height="375" width="540" y="486.08653" x="191.30405" stroke="#000" fill="#0000e8"/>
+  <text font-style="normal" font-weight="bold" xml:space="preserve" text-anchor="start" font-family="sans-serif" font-size="100" stroke-width="0" id="svg_9" y="582.82317" x="381.00592" stroke="#000" fill="#ffffff">km</text>
+ </g>
+</svg>
